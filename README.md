@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning open source technologies at iti 
 - 🤔 I’m looking for help with Python 
-- 💬 Ask me about JavaScript
+- 💬 Ask me about JavaScript - nodeJS
 
 
 
