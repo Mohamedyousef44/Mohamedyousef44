@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning open source technologies at iti 
 - 🤔 I’m looking for help with Python 
-- 💬 Ask me about JavaScript - nodeJS
+- 💬 Ask me about JavaScript - nodeJS - Laravel - Angular
 
 
 
@@ -17,3 +17,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/mohamed-yossef-188818110/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:13mohamed.yossef@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamedyousef44&label=Profile%20views&color=0e75b6&style=flat" alt="image" /> </p>
